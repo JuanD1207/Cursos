@@ -1,13 +1,13 @@
-package com.ejemplo.cursoSpringboot;
+package com.cursoSpring.cursoSpring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CursoSpringbootApplication {
+public class CursoSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CursoSpringbootApplication.class, args);
+		SpringApplication.run(CursoSpringApplication.class, args);
 	}
 
 }
